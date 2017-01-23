@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-frctl",
+  "name": "@frctl/eslint-config-frctl",
   "version": "0.0.1",
   "description": "ESLint configuration to be shared across all Fractal Repositories",
   "main": "index.js",
