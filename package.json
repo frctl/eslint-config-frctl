@@ -1,0 +1,10 @@
+{
+  "name": "eslint-config-frctl",
+  "version": "0.0.1",
+  "description": "ESLint configuration to be shared across all Fractal Repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Not applicable\" && exit 1"
+  },
+  "license": "MIT"
+}
