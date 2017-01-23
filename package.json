@@ -6,5 +6,8 @@
   "scripts": {
     "test": "echo \"Not applicable\" && exit 1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT"
 }
