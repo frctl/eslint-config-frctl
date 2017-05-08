@@ -8,6 +8,7 @@ module.exports = {
     "indent": ["error", 2],
     "func-names": "off",
     "no-use-before-define": "off",
-    "no-unused-vars": ["error", { "args": "none" }]
+    "no-unused-vars": ["error", { "args": "none" }],
+    "no-warning-comments": "warn"
   }
 };
