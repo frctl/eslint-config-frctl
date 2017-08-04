@@ -9,6 +9,6 @@ module.exports = {
     "func-names": "off",
     "no-use-before-define": "off",
     "no-unused-vars": ["error", { "args": "none" }],
-    "no-warning-comments": "warn"
+    "no-warning-comments": "off"
   }
 };
